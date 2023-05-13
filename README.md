@@ -44,7 +44,7 @@ print("Multiplication:",calculator.multiply())
 print("Division:",calculator.divide())
 
 # OUTPUT
- Enter the num1:20 \n
+ Enter the num1:20 
  Enter the num210
  Addition : 30
  Subtraction: 10
