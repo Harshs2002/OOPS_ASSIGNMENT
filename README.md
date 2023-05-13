@@ -12,7 +12,8 @@ class Point:
 point = Point(1,3,4)
 print(point.sqSum())                                
 
-# OUTPUT 26
+# OUTPUT 
+26
 
 
 
@@ -43,12 +44,12 @@ print("Multiplication:",calculator.multiply())
 print("Division:",calculator.divide())
 
 # OUTPUT
-# Enter the num1:20 
-# Enter the num210
-# Addition : 30
-# Subtraction: 10
-# Multiplication: 200
-# Division: 2.0
+ Enter the num1:20 
+ Enter the num210
+ Addition : 30
+ Subtraction: 10
+ Multiplication: 200
+ Division: 2.0
 
 
 
@@ -79,8 +80,8 @@ print(student.getName())
 print(student.getRollNumber()) 
 
 # OUTPUT
-# Harsh
-# 200390 
+Harsh
+200390 
 
 
 
@@ -102,9 +103,9 @@ print(savingsAccount1.balance)
 print(savingsAccount1.interestRate)  
 
 # OUTPUT
-# Ashish
-# 5000
-# 5
+Ashish
+5000
+5
 
 
 
@@ -142,9 +143,9 @@ print(demo1.getBalance())
 print(demo1.interestAmount())
 
 # OUTPUT
-# 2500
-# 2000
-# 100.0
+2500
+2000
+100.0
 
 
 
